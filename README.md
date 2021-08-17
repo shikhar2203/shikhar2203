@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shikhar
 - 👀 I’m interested in coding, web development and cyber security.
 - 🌱 I’m currently learning DSA with C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me -> Instagram - @shikhar2203
 
 <!---
