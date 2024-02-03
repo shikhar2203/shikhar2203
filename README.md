@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in **Saptang Labs**
 
-- 🌱 I’m currently learning **Swift Server Side Scripting using Vapor Toolkit**
+- 🌱 I’m currently working on **Cyber Security**
 
 - 👯 I’m looking to collaborate on **cool projects**
 
