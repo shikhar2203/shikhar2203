@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shikhar2203" target="blank"><img src="https://img.shields.io/twitter/follow/shikhar2203?logo=twitter&style=for-the-badge" alt="shikhar2203" /></a> </p>
 
-- 🔭 I’m currently working in **Saptang Labs**
+- 🔭 I’m currently working as **Associate SDE Intern** at **Saptang Labs**
 
-- 🌱 I’m currently working on **Cyber Security**
+- 🌱 I’m currently working on **Cyber Security & iOS Development**
 
 - 👯 I’m looking to collaborate on **cool projects**
 
