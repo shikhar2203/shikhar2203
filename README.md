@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shikhar</h1>
-<h3 align="center">A passionate FullStack iOS Developer studying in VIT Vellore.</h3>
+<h3 align="center">A passionate FullStack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar2203&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar2203" /> </p>
 
@@ -9,11 +9,11 @@
 
 <!-- - 🔭 I’m currently working as **Associate SDE Intern** at **Saptang Labs** -->
 
-- 🌱 I’m currently working on **Cyber Security & iOS Development**
+- 🌱 I’m currently working on **NextJS**
 
 - 👯 I’m looking to collaborate on **cool projects**
 
-- 💬 Ask me about **HTML, CSS, Swift, iOS Development**
+- 💬 Ask me about **HTML, CSS, Swift, ReactJS, NodeJS
 
 - 📫 How to reach me **shikharsharma2203@gmail.com**
 
